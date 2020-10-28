@@ -1,0 +1,19 @@
+{
+  "name": "person-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersonbjj/Person-log.git"
+  },
+  "author": "Emerson Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emersonbjj/Person-log/issues"
+  },
+  "homepage": "https://github.com/emersonbjj/Person-log#readme"
+}
